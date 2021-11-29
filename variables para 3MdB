@@ -1,0 +1,7 @@
+Para poder entrar a la base de datos 3MdB, es necesario poner en el .bash_profile:
+
+export MdB_HOST="3mdb.astro.unam.mx"
+export MdB_USER="OVN_user"
+export MdB_PASSWD="oiii5007"
+export MdB_PORT="3306"
+export MdB_DB='3MdBs'
